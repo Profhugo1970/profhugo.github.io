@@ -1,0 +1,41 @@
+
+ 
+
+
+@import url('https://fonts.googleapis.com/css2?family=Gloock&family=Lato:wght@700&family=Oswald:wght@200&display=swap');
+/*fuentes gooogle fonts*/
+h5,h6 {
+    font-family: Gloock; /*Fuentes*/
+}
+p {
+    font-family: Oswald;
+}
+h3 {
+    font-family: Lato;
+}
+.fas {
+    color:rgb(15, 160, 160)/*color iconos*/
+}
+.fa-linkedin { 
+    background: black;
+    color: white;
+    padding: 20px;
+            font-size: 25px;
+            width: 60px;
+            text-decoration: none;
+            margin: 5px 80px;
+        }
+
+.fa-github {
+    background:black;
+    color: white;
+    padding: 20px;
+            font-size: 25px;
+            width: 60px;
+            text-decoration: none;
+            margin: 5px 80px;
+}
+.a{
+    text-align: center;
+}
+
